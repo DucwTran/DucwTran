@@ -1,12 +1,7 @@
 ## Hi there 👋, I'm Tran Cong Duc  
 🎓 I am a student at **Danang University of Science and Technology (DUT)**  
 <br>
-<br>
 🌱 A passionate learner with a strong desire to explore new technologies and improve my skills every day.  
-<br>
-🚀 I am eager to grow as a developer and contribute to meaningful projects.  
-<br>
-💡 I believe continuous learning is the key to becoming better, both in life and in technology.  
 
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
