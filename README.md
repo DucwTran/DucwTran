@@ -1,4 +1,5 @@
 **Hi there, I'm Tran Cong Duc**
+<br>
 I am a student at Danang University of Science and Technology
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
