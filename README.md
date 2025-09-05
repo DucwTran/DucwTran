@@ -40,11 +40,11 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-  <a href="#" title="TohC">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucwTran&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng" />
+ <a href="#" title="TranCongDuc">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucwTran&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="trancongduc">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=DucwTran&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&include_all_commits=true&custom_title=Ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20Github" />
+  <a href="#" title="TranCongDuc">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=DucwTran&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
 
